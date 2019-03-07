@@ -1,0 +1,19 @@
+.userInput {
+    border: 10px;
+    width: 50%;
+    margin: auto;
+}
+
+.userOutput {
+    font-weight: bold;
+    border: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
